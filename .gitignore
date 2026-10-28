@@ -1,0 +1,13 @@
+.DS_Store
+._*
+.env
+*.bak
+node_modules/
+images/_إيصال-*
+
+.env.*
+*.pem
+*.key
+mcp_config.json
+credentials*
+.npmrc
